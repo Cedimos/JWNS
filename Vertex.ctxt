@@ -1,0 +1,10 @@
+#BlueJ class context
+#Tue Nov 03 09:03:35 CET 2026
+comment0.target=Vertex
+comment0.text=\r\n Beschreiben Sie hier die Klasse Vertex.\r\n \r\n @author Valentin Burger \r\n @version 0.1\r\n
+comment1.params=xx yy
+comment1.target=Vertex(double, double)
+comment2.target=java.lang.String toString()
+comment3.params=args
+comment3.target=void main(java.lang.String[])
+numComments=4
